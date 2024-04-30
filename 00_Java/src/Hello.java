@@ -9,6 +9,7 @@ public class Hello {
 		System.out.print("안녕하세요.");
 		System.out.print("반갑습니다.");
 		
+		
 		//println은 문장이 끝난 다음에 엔터가 진행됨 
 		System.out.println("환영합니다.");
 		System.out.println("어서오세요. 점심시간");
